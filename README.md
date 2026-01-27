@@ -25,3 +25,11 @@ My projects range from silly to downright deep and unconventional. Whatever it i
 # 📞Contact Me
 
 Email: rmolero@addu.edu.ph
+
+<!--
+Source - https://stackoverflow.com/a
+Posted by alciregi, modified by community. See post 'Timeline' for change history
+Retrieved 2026-01-27, License - CC BY-SA 4.0
+-->
+
+<img src="https://github.com/rmolero-addu/rmolero-addu/blob/main/laboratory%202/logo/Logo.png" width="256">
