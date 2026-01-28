@@ -1,5 +1,5 @@
 ![](https://github.com/rmolero-addu/Elective-Laboratories/blob/main/laboratory%202/branding/banner/Banner.png)
-# <img src="https://github.com/rmolero-addu/Elective-Laboratories/blob/main/laboratory%202/branding/logo/logo-sm-clear-white.png" width="64"> An aspiring Cybersecurity Pentester and Reverse Engineer.
+# <img src="https://github.com/rmolero-addu/Elective-Laboratories/blob/main/laboratory%202/branding/logo/logo-sm-clear-white.png" width="32"> An aspiring Cybersecurity Pentester and Reverse Engineer.
 
 Hello! I'm Raffi Molero.
 
