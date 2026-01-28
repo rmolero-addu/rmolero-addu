@@ -1,4 +1,4 @@
-![](https://github.com/rmolero-addu/rmolero-addu/blob/main/laboratory%202/banner/Banner.png)
+![](https://github.com/rmolero-addu/Elective-Laboratories/blob/main/laboratory%202/branding/banner/Banner.png)
 # An aspiring Cybersecurity Pentester and Reverse Engineer.
 
 Hello! I'm Raffi Molero.
@@ -32,4 +32,4 @@ Posted by alciregi, modified by community. See post 'Timeline' for change histor
 Retrieved 2026-01-27, License - CC BY-SA 4.0
 -->
 
-<img src="https://github.com/rmolero-addu/rmolero-addu/blob/main/laboratory%202/logo/Logo.png" width="256">
+<img src="https://github.com/rmolero-addu/Elective-Laboratories/blob/main/laboratory%202/branding/logo/logo-sm-clear-white.png" width="256">
